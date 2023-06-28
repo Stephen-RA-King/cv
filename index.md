@@ -68,7 +68,7 @@ A self motivated, proactive, self starter with ability to use initiative, innova
   </tr>
 </table>
 
-## 💼 Employment History
+## 👨‍💻 Employment History
 #### Python Developer, Xilinx Technology (May 2020 – present)
 
 - Developed and built internal tools to improve development efficiency and workflows and provided automated solutions to test quality of 10-100 Gb Ethernet adapters and switches.
@@ -76,6 +76,41 @@ A self motivated, proactive, self starter with ability to use initiative, innova
 - Identified roadblocks and inefficiencies in existing ecosystems and implemented processes/tools to remove them.
 - Developed python scripts to automate development and testing infrastructure utilising libraries Nornir, Paramiko, Netmiko, Napalm and Fabric along with Ansible and Vagrant.
 
+#### Self employed (Oct 2019 –Apr. 2020)
+- Designed from scratch the hardware and software for an original IoT project.
+- Investigated the many aspects of commercial IoT projects including legal and manufacturing requirements.
+- Conducted performance testing of numerous Single Board Computers to evaluate computational and power requirements.
+- Fabricated a final fully operational prototype demonstrator utilising Keras / Tensorflow and OpenCV Python libraries with a Django management interface.
+
+#### Career Break (Jan. 2019 –Sep. 2019)
+Time taken to renovate house and relocate. 
+
+#### Software Engineer, Qualcomm (Aug. 2016 – Dec. 2018)
+- Debugged issues with the Python framework and test code; defined and fixed bugs found. Developed new features of the test framework. 
+- Ensured Python environments were up-to-date and compatible with the latest language developments, and with other environments used across the company with which it interfaced.
+- Supported colleagues with Python test code development.  Providing training for new users of the framework and database.
+- Managed software roll-out across multiple systems.  Defined and developed new automation tools to make testing and debugging more efficient. 
+- Converted and updated legacy Python scripts & libraries from version 2 to 3.
+
+#### Python Automation Engineer, Cisco (Jul. 2011 – Aug. 2016)
+- Designed, developed, coded and debugged automated environments for both Development and QA departments which had a large impact on the agile Kanban two week cadences.
+- Supported DevOps by providing tooling, monitoring dashboards and process automation.
+- Automated microservice deployment by providing Ansible playbooks, Puppet manifests, Python scripts and Linux shell scripts.
+- Supported a challenging microservice infrastructure utilising a multitude of technologies including: Oracle and Vertica DB's, CouchDB, Memcached, Squid, ETL, ActiveMQ, Redis.   Virtualized environments were provided by Vagrant, VMware, VirtualBox and KVM.  Containerization was provided by Docker.  CI/CD was provided by Jenkins pipelines along with Git. 
+- Provided monitoring with the aid of ELK Stack, Grafana, Graphite and Prometheus.
+
+#### Python QA Engineer, Solarflare Communications (Mar. 2010 – Jun. 2011)
+- Developed and coded an automated test framework in python which along with open source & commercial tools were used to verify performance and protocol functions of 10Gb network devices.
+- Created Test specifications from IETF RFC specifications for protocol verification and subsequent automation by utilising various Python libraries.
+- Developed and supported various dashboards created with the Django framework.
+
+#### Automation Engineer, 3Com (Feb. 2009 – Jan. 2010)
+- Tested all functional and non-functional aspects of CentOS embedded software on a unified security platform, encompassing firewall, Router, web filtering, spam filtering and anti-Virus functionality.
+- Utilised Spirent Smartbits packet generators, Avalanche traffic generators and automated tests with Python, Perl and Tcl.
+
+#### Technical QA Team Leader, Citrix (Dec. 2005 – Dec. 2008)
+- Completed many diverse full life cycle testing projects including release 4.5 of Presentation Server, XenApp, XenDesktop, XenServer and Edgesight products.
+- Partial automation of the test environments were delivered with C#. 
 
 
 
