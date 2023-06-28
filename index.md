@@ -17,7 +17,7 @@ A true versatilist archetype with a classical education in pure science.
 Having worked in software development since 1998 and specifically with python for 13 years I have a proven record of improving process performance by implementing new ideas, automation and generating new tools.
 A self motivated, proactive, self starter with ability to use initiative, innovate and operate autonomously or mentor and collaborate with team members.
 
-## Key Skills
+## 💻 Key Skills
 
 <table>
   <tr>
@@ -42,7 +42,28 @@ A self motivated, proactive, self starter with ability to use initiative, innova
   </tr>
 </table>
 
-## Education
+## 🎓 Education
+- MSc. Biochemistry, University of Reading.
+- BSc. Biochemistry with Chemistry, University of Reading.
+- 'A' Levels: Physics, Chemistry, Pure Mathematics and Biology. 
 
+## 📜 Professional Qualifications
 
-
+<table>
+  <tr>
+    <td border="0">
+      <ul>        
+        <li>Cisco Certified Network Professional (CCNP)</li>
+        <li>Cisco Certified Design Professional (CCDP)</li>
+        <li>Citrix Certified Enterprise Administrator (CCEA)</li>
+      </ul>
+    </td>
+    <td border="0">
+      <ul>
+        <li>Cisco Certified Network Associate</li>
+        <li>Cisco Certified Design Associate</li>
+        <li>Citrix Certified Administrator (CCA)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
