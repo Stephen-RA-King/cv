@@ -1,5 +1,5 @@
 # Stephen King
-<a id="raw-url" href="https://raw.githubusercontent.com/stephen-ra-king/cv/main/Stephen_King_CV.pdf">Download CV</a>
+**<a id="raw-url" href="https://raw.githubusercontent.com/stephen-ra-king/cv/main/Stephen_King_CV.pdf">Download CV</a>**
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/sr-king)
 [![](assets/github.png)](https://github.com/Stephen-RA-King)
@@ -7,6 +7,8 @@
 [![](assets/dev.png)](https://dev.to/stephenraking) 
 [![](assets/docker.png)](https://hub.docker.com/search?q=sraking) 
 [![](assets/www.png)](https://stephen-ra-king.github.io/justpython/)
+
+[![](assets/pin.png)](https://www.google.com/maps/place/Exeter/@50.7244282,-3.5135475) Exeter, Devon :gb:
 
 ### Python Developer | Software Engineer
 
@@ -39,6 +41,8 @@ A self motivated, proactive, self starter with ability to use initiative, innova
     </td>
   </tr>
 </table>
+
+
 
 
 
