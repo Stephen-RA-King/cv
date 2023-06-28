@@ -60,10 +60,24 @@ A self motivated, proactive, self starter with ability to use initiative, innova
     </td>
     <td border="0">
       <ul>
-        <li>Cisco Certified Network Associate</li>
-        <li>Cisco Certified Design Associate</li>
+        <li>Cisco Certified Network Associate (CCNA)</li>
+        <li>Cisco Certified Design Associate (CCDA)</li>
         <li>Citrix Certified Administrator (CCA)</li>
       </ul>
     </td>
   </tr>
 </table>
+
+## 💼 Employment History
+#### Python Developer, Xilinx Technology (May 2020 – present)
+
+- Developed and built internal tools to improve development efficiency and workflows and provided automated solutions to test quality of 10-100 Gb Ethernet adapters and switches.
+- Designed, built, monitored and maintained tool chains for critical functions and various dashboards.
+- Identified roadblocks and inefficiencies in existing ecosystems and implemented processes/tools to remove them.
+- Developed python scripts to automate development and testing infrastructure utilising libraries Nornir, Paramiko, Netmiko, Napalm and Fabric along with Ansible and Vagrant.
+
+
+
+
+
+
