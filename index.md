@@ -1,17 +1,12 @@
 # Stephen King
 <a id="raw-url" href="https://raw.githubusercontent.com/stephen-ra-king/cv/main/Stephen_King_CV.pdf">Download CV</a>
 
-<div align="left">
-
-[<img src="assets/linkedin.png" height="40em" align="center" />](https://www.linkedin.com/in/sr-king)
-[<img src="assets/github.png" height="40em" align="center" />](https://github.com/Stephen-RA-King)
-[<img src="assets/email.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
-[<img src="assets/dev.png" height="40em" align="center" />](https://dev.to/stephenraking)
-[<img src="assets/docker.png" height="40em" align="center" />](https://hub.docker.com/search?q=sraking)
-[<img src="assets/www.png" height="40em" align="center" />](https://stephen-ra-king.github.io/justpython/)
-
-</div>
-
+[![](assets/linkedin.png)](https://www.linkedin.com/in/sr-king)
+[![](assets/github.png)](https://github.com/Stephen-RA-King)
+[![](assets/email.png)](mailto:sking.github@gmail.com) 
+[![](assets/dev.png)](https://dev.to/stephenraking) 
+[![](assets/docker.png)](https://hub.docker.com/search?q=sraking) 
+[![](assets/www.png)](https://stephen-ra-king.github.io/justpython/)
 
 ### Python Developer | Software Engineer
 
