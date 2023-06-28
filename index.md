@@ -8,16 +8,16 @@
 [![](assets/docker.png)](https://hub.docker.com/search?q=sraking) 
 [![](assets/www.png)](https://stephen-ra-king.github.io/justpython/)
 
-[![](assets/pin.png)](https://www.google.com/maps/place/Exeter/@50.7244282,-3.5135475) Exeter, Devon :gb:
+[![](assets/pin.png)](https://www.google.com/maps/place/Exeter/@50.7244282,-3.5135475) Exeter, Devon 🇬🇧
 
-### Python Developer | Software Engineer
+## Python Developer | Software Engineer
 
-### Summary
+## Summary
 A true versatilist archetype with a classical education in pure science. 
 Having worked in software development since 1998 and specifically with python for 13 years I have a proven record of improving process performance by implementing new ideas, automation and generating new tools.
 A self motivated, proactive, self starter with ability to use initiative, innovate and operate autonomously or mentor and collaborate with team members.
 
-### Key Skills
+## Key Skills
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ A self motivated, proactive, self starter with ability to use initiative, innova
   </tr>
 </table>
 
-
+## Education
 
 
 
