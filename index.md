@@ -27,7 +27,6 @@ A self motivated, proactive, self starter with ability to use initiative, innova
         <li>Git / GitHub</li>
         <li>Django, Flask & FastAPI Frameworks</li>
         <li>Ansible</li>
-        <li>A=SQLAlchemy</li>
       </ul>
     </td>
     <td border="0">
@@ -36,7 +35,6 @@ A self motivated, proactive, self starter with ability to use initiative, innova
         <li>Networking</li>
         <li>Linux</li>
         <li>Docker</li>
-        <li>OpenAPI / Swagger</li>
       </ul>
     </td>
   </tr>
