@@ -116,3 +116,8 @@ Full Career history available upon request
 
 v0.1.1
 
+
+
+Digital object identifier: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8118217.svg)](https://doi.org/10.5281/zenodo.8118217)
+
+
