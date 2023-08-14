@@ -67,7 +67,7 @@ A self motivated, proactive, self starter with ability to use initiative, innova
 </table>
 
 ## 👨‍💻 Employment History
-#### Python Developer, [Xilinx Technology](https://www.xilinx.com/products/silicon-devices/fpga.html) (May 2020 – present)
+#### Python Developer, [Xilinx Technology](https://www.xilinx.com/products/silicon-devices/fpga.html) (May 2020 – Jul 2023)
 
 - Developed and built internal tools to improve development efficiency and workflows and provided automated solutions to test quality of 10-100 Gb Ethernet adapters and switches.
 - Designed, built, monitored and maintained tool chains for critical functions and various dashboards.
@@ -114,7 +114,7 @@ Time taken to renovate house and relocate.
 
 Full Career history available upon request
 
-v0.1.1
+v0.1.3
 
 
 
