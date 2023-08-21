@@ -13,7 +13,7 @@
 ## Python Developer | Software Engineer
 
 ## Summary
-A true versatilist archetype with a classical education in pure science. 
+A software engineer with a traditional classical education in pure science. 
 Having worked in software development since 1998 and specifically with python for 13 years I have a proven record of improving process performance by implementing new ideas, automation and generating new tools.
 A self motivated, proactive, self starter with ability to use initiative, innovate and operate autonomously or mentor and collaborate with team members.
 
@@ -114,7 +114,7 @@ Time taken to renovate house and relocate.
 
 Full Career history available upon request
 
-v0.1.4
+v0.1.5
 
 
 
