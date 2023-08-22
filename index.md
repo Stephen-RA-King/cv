@@ -3,7 +3,7 @@
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/sr-king)
 [![](assets/github.png)](https://github.com/Stephen-RA-King)
-[![](assets/email.png)](mailto:sking.github@gmail.com) 
+[![](assets/email2.png)](mailto:sking.github@gmail.com) 
 [![](assets/dev.png)](https://dev.to/stephenraking) 
 [![](assets/docker.png)](https://hub.docker.com/search?q=sraking) 
 [![](assets/www.png)](https://stephen-ra-king.github.io/justpython/)
