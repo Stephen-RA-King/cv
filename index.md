@@ -70,7 +70,7 @@ A self motivated, proactive, self starter with ability to use initiative, innova
 #### Python Developer, [Xilinx Technology](https://www.xilinx.com/products/silicon-devices/fpga.html) (May 2020 – Jul 2023)
 
 - Developed and built internal tools to improve development efficiency and workflows and provided automated solutions to test quality of 10-100 Gb Ethernet adapters and switches.
-- Designed, built, monitored and maintained tool chains for critical functions and various dashboards.
+- Designed, built, monitored and ma![img.png](img.png)intained tool chains for critical functions and various dashboards.
 - Identified roadblocks and inefficiencies in existing ecosystems and implemented processes/tools to remove them.
 - Developed python scripts to automate development and testing infrastructure utilising libraries Nornir, Paramiko, Netmiko, Napalm and Fabric along with Ansible and Vagrant.
 
