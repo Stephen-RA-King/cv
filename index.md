@@ -13,7 +13,7 @@
 ## Python Developer | Software Engineer
 
 ## Summary
-A software engineer with a traditional classical education in pure science. 
+A Python Developer with a traditional classical education in pure science. 
 Having worked in software development since 1998 and specifically with python for 13 years I have a proven record of improving process performance by implementing new ideas, automation and generating new tools.
 A self motivated, proactive, self starter with ability to use initiative, innovate and operate autonomously or mentor and collaborate with team members.
 
@@ -25,13 +25,13 @@ A self motivated, proactive, self starter with ability to use initiative, innova
       <ul>
         <li>Python</li>
         <li>Git / GitHub</li>
-        <li>Django, Flask & FastAPI Frameworks</li>
+        <li>FastAPI</li>
         <li>Ansible</li>
       </ul>
     </td>
     <td border="0">
       <ul>
-        <li>Automation (QA, CI/CD, Networking)</li>
+        <li>Automation (QA, AWS, CI/CD, Networking)</li>
         <li>Networking</li>
         <li>Linux</li>
         <li>Docker</li>
@@ -69,10 +69,9 @@ A self motivated, proactive, self starter with ability to use initiative, innova
 ## 👨‍💻 Employment History
 #### Python Developer, [Xilinx Technology](https://www.xilinx.com/products/silicon-devices/fpga.html) (May 2020 – Jul 2023)
 
-- Developed and built internal tools to improve development efficiency and workflows and provided automated solutions to test quality of 10-100 Gb Ethernet adapters and switches.
-- Designed, built, monitored and ma![img.png](img.png)intained tool chains for critical functions and various dashboards.
-- Identified roadblocks and inefficiencies in existing ecosystems and implemented processes/tools to remove them.
-- Developed python scripts to automate development and testing infrastructure utilising libraries Nornir, Paramiko, Netmiko, Napalm and Fabric along with Ansible and Vagrant.
+-	Developed the automated testing and development infrastructure frameworks
+-	Identified inefficiencies in existing ecosystems and implemented processes/tools to remove them.
+-	Developed and maintained a FastAPI reporting system on AWS EC2, S3 and DynamoDB utilizing python Lambda functions and Boto3 scripts. 
 
 #### Self employed (Oct 2019 –Apr. 2020)
 - Designed from scratch the hardware and software for an original IoT project.
@@ -94,8 +93,10 @@ Time taken to renovate house and relocate.
 - Designed, developed, coded and debugged automated environments for both Development and QA departments which had a large impact on the agile Kanban two week cadences.
 - Supported DevOps by providing tooling, monitoring dashboards and process automation.
 - Automated microservice deployment by providing Ansible playbooks, Puppet manifests, Python scripts and Linux shell scripts.
-- Supported a challenging microservice infrastructure utilising a multitude of technologies including: Oracle and Vertica DB's, CouchDB, Memcached, Squid, ETL, ActiveMQ, Redis.   Virtualized environments were provided by Vagrant, VMware, VirtualBox and KVM.  Containerization was provided by Docker.  CI/CD was provided by Jenkins pipelines along with Git. 
-- Provided monitoring with the aid of ELK Stack, Grafana, Graphite and Prometheus.
+- Supported a challenging microservice infrastructure which utilised a multitude of technologies including: Oracle and Vertica DB's, CouchDB, Memcached, Squid, ETL, ActiveMQ, Redis.   Virtualized environments were provided by Vagrant, VMware, VirtualBox and KVM.  
+- Utilized containerization in the form of Docker to provide consistent development environments.  
+- CI/CD was provided by Jenkins pipelines along with Git version control. 
+- Utilised monitoring tools with the aid of ELK Stack, Grafana, Graphite and Prometheus.
 
 #### Python QA Engineer, [Solarflare Communications](https://en.wikipedia.org/w/index.php?title=Solarflare&redirect=no) (Mar. 2010 – Jun. 2011)
 - Developed and coded an automated test framework in python which along with open source & commercial tools were used to verify performance and protocol functions of 10Gb network devices.
@@ -108,7 +109,7 @@ Time taken to renovate house and relocate.
 
 #### Technical QA Team Leader, [Citrix](https://www.citrix.com/) (Dec. 2005 – Dec. 2008)
 - Completed many diverse full life cycle testing projects including release 4.5 of Presentation Server, XenApp, XenDesktop, XenServer and Edgesight products.
-- Partial automation of the test environments were delivered with C#. 
+
 
 
 
