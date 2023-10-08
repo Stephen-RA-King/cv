@@ -32,6 +32,7 @@ or collaboratively with team members.
         <li>FastAPI</li>
         <li>Ansible</li>
         <li>Technical Documentation</li>
+        <li>Robot Framework</li>
       </ul>
     </td>
     <td border="0">
@@ -40,7 +41,8 @@ or collaboratively with team members.
         <li>Networking</li>
         <li>Linux</li>
         <li>Docker</li>
-        <li>OpenAPI, REST API's, GraphQL</li>
+        <li>OpenAPI, REST APIs, GraphQL</li>
+        <li>Web scraping</li>
       </ul>
     </td>
   </tr>
@@ -73,6 +75,11 @@ or collaboratively with team members.
 </table>
 
 ## 👨‍💻 Employment History
+### Python Developer, [Freelance]() (Sep 2023 – )
+
+- Currently providing direct independent freelance software development services.
+
+
 ### Python Developer, [Xilinx Technology](https://www.xilinx.com/products/silicon-devices/fpga.html) (May 2020 – Jul 2023)
 
 - Developed the automated testing and development infrastructure frameworks
@@ -128,7 +135,7 @@ This period was taken to renovate the house and relocate.
 
 Full Career history available upon request
 
-v0.1.6
+v0.1.7
 
 
 
