@@ -1,5 +1,5 @@
 # Stephen King
-**<a id="raw-url" href="https://raw.githubusercontent.com/stephen-ra-king/cv/main/Stephen_King_CV.pdf">Download CV</a>**
+**<a id="raw-url" href="https://raw.githubusercontent.com/stephen-ra-king/cv/main/Stephen_King_CV.docx">Download CV</a>**
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/sr-king)
 [![](assets/github.png)](https://github.com/Stephen-RA-King)
