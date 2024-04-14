@@ -30,19 +30,23 @@ a wide range of technical skills.
         <li>Python</li>
         <li>Git, GitHub</li>
         <li>FastAPI</li>
-        <li>Ansible</li>
+        <li>AWS</li>
+        <li>IaC, Ansible</li>
         <li>Technical Documentation</li>
-        <li>Robot Framework</li>
+        <li>BDD, Robot Framework, Behave</li>
+        <li>IoT, Single Board Computers</li>
       </ul>
     </td>
     <td border="0">
       <ul>
         <li>Automation (QA, AWS, Networks, CI/CD)</li>
         <li>Networking</li>
-        <li>Linux</li>
+        <li>Linux, Bash scripting</li>
         <li>Docker</li>
+        <li>ETL</li>
         <li>OpenAPI, REST APIs, GraphQL, gRPC</li>
-        <li>Web scraping</li>
+        <li>Microservice Architecture</li>
+        <li>NoSQL, CouchDB, Elasticsearch, Redis</li>
       </ul>
     </td>
   </tr>
@@ -80,7 +84,7 @@ a wide range of technical skills.
 - Currently providing direct independent freelance software development services.
 
 
-### Python Developer, [Xilinx Technology](https://www.xilinx.com/products/silicon-devices/fpga.html) (Jan. 2020 – Jul. 2023)
+### Python Developer, [AMD](https://www.xilinx.com/products/silicon-devices/fpga.html) (Jan. 2020 – Jul. 2023)
 - Led a team of developers to design and implement a fully automated Continuous Integration testing and development framework by leveraging FastAPI on AWS EC2, S3, SQS, SNS, and DynamoDB utilizing Python Lambda functions and Boto3 scripts. Managed Source code on GitHub with linting and unit tests being performed by workflows and Actions.
 - Streamlined the legacy performance test system, seamlessly integrating it into the new environment for enhanced efficiency.
 - Automated the laboratory network infrastructure operations by utilizing Python libraries like nornir, netmiko, napalm, and fabric and employed Ansible YAML playbooks and Pulumi Python scripts as robust Infrastructure as Code (IaC) tools.
