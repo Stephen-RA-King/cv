@@ -8,7 +8,7 @@
 [![](assets/docker.png)](https://hub.docker.com/search?q=sraking) 
 [![](assets/www.png)](https://stephen-ra-king.github.io/justpython/)
 
-[![](assets/pin.png)](https://www.google.com/maps/place/Exeter/@50.7244282,-3.5135475) Exeter, Devon 🇬🇧
+[![](assets/pin.png)]() 
 
 ## Python Developer | Automation Engineer
 
@@ -79,7 +79,7 @@ a wide range of technical skills.
 </table>
 
 ## 👨‍💻 Employment History
-### Python Developer, [Freelance]() (Oct 2023 – )
+### Python Developer, [Freelance]() (Oct 2023 – present)
 
 - Currently providing direct independent freelance software development services.
 
