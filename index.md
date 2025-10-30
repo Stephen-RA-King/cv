@@ -10,15 +10,14 @@
 
 [![](assets/pin.png)]() 
 
-## Python Developer | Automation Engineer
+## Software Engineer | Python Developer
 
 ## Summary
-I'm an experienced Python Developer focusing on optimizing processes through inventive
-ideas, automation, and efficient tooling. I specialize in crafting scalable, 
-maintainable software solutions, emphasizing clean, readable, and reusable code. 
-Whether working independently or in a team, I'm proactive, self-motivated, and excel 
-in diverse settings. I thrive on learning new technologies and bring expertise across 
-a wide range of technical skills.
+Experienced Python Developer and Software Engineer with 16+ years of expertise in automation, 
+embedded systems, and scalable software design. Skilled at modernising legacy systems, streamlining workflows, 
+and building efficient, maintainable codebases. Equally effective as an independent problem-solver or collaborative 
+team member, with a proactive, results-focused approach that consistently delivers measurable improvements in 
+performance and reliability.
 
 
 ## 💻 Key Skills
@@ -79,12 +78,32 @@ a wide range of technical skills.
 </table>
 
 ## 👨‍💻 Employment History
-### Python Developer, [Freelance]() (Oct 2023 – present)
 
-- Currently providing direct independent freelance software development services.
+### Senior Scientific Software Engineer, [MetOffice](https://www.metoffice.gov.uk/) (Dec. 2024 – Jul. 2025)
+- Designed and implemented automated workflows using Cylc to replace legacy data feeds, streamlining the extraction and 
+- processing of meteorological data from MOGREPS-UK, UKV, and Global weather models.
+- Developed data pipelines in Microsoft Azure, leveraging cloud resources for rapid prototyping and scalability, 
+- before deploying the final production workflows to the MetOffice supercomputer environment for operational use.
+- Worked extensively with NetCDF formats and used Python libraries like xarray, numpy, pandas and scipy for efficient 
+- handling and analysis of high-resolution, multidimensional datasets.
+- Utilised Dask to parallelise and optimise performance for large-scale data processing tasks.
+- Managed environments with Conda/Mamba and integrated JFrog Artifactory for secure, versioned package management; and 
+- implemented CI/CD pipelines using GitHub Actions.
+- Followed Python best practices, including modular architecture, unit testing, version control (Git), documentation, 
+- and PEP 8 compliance to deliver robust and maintainable code.
+- Liaised with stakeholders to gather requirements, ensuring new data services were aligned with operational needs and 
+- delivered measurable improvements in reliability and performance.
+- Promoted high standards of scientific software development within the team, including mentoring colleagues and 
+- contributing to long-term technical strategy.
 
 
-### Python Developer, [AMD](https://www.xilinx.com/products/silicon-devices/fpga.html) (Jan. 2020 – Jul. 2023)
+
+### Python Developer, [Freelance]() (Sep. 2023 – Nov. 2024)
+- Provided direct independent software development services to several clients, with recent focus on start-up IoT 
+projects, medical diagnostic devices and robotic SDK.
+
+
+### Senior Python Developer, [AMD](https://www.xilinx.com/products/silicon-devices/fpga.html) (Jan. 2020 – Jul. 2023)
 - Led a team of developers to design and implement a fully automated Continuous Integration testing and development framework by leveraging FastAPI on AWS EC2, S3, SQS, SNS, and DynamoDB utilizing Python Lambda functions and Boto3 scripts. Managed Source code on GitHub with linting and unit tests being performed by workflows and Actions.
 - Streamlined the legacy performance test system, seamlessly integrating it into the new environment for enhanced efficiency.
 - Automated the laboratory network infrastructure operations by utilizing Python libraries like nornir, netmiko, napalm, and fabric and employed Ansible YAML playbooks and Pulumi Python scripts as robust Infrastructure as Code (IaC) tools.
@@ -161,7 +180,7 @@ This period was taken to renovate the house and relocate.
 
 Full Career history available upon request
 
-v0.1.9
+v0.1.21
 
 
 
