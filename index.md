@@ -7,18 +7,17 @@
 [![](assets/dev.png)](https://dev.to/stephenraking) 
 [![](assets/docker.png)](https://hub.docker.com/search?q=sraking) 
 [![](assets/www.png)](https://stephen-ra-king.github.io/justpython/)
-
 [![](assets/pin.png)]() 
 
 ## Software Engineer | Python Developer
 
 ## Summary
-Experienced Python Developer and Software Engineer with 16+ years of expertise in automation, 
-embedded systems, and scalable software design. Skilled at modernising legacy systems, streamlining workflows, 
-and building efficient, maintainable codebases. Equally effective as an independent problem-solver or collaborative 
-team member, with a proactive, results-focused approach that consistently delivers measurable improvements in 
-performance and reliability.
-
+Security Check (SC) Cleared Senior Python Developer and Software Engineer with 18+ years of 
+expertise in automation, embedded systems, and scalable software design. Skilled at modernizing 
+legacy systems, streamlining workflows, and building efficient, maintainable codebases. 
+Equally effective as an independent problem-solver or collaborative team member, with a proactive,
+results-focused approach that consistently delivers measurable improvements in performance and 
+reliability.
 
 ## 💻 Key Skills
 
@@ -79,14 +78,14 @@ performance and reliability.
 
 ## 👨‍💻 Employment History
 
-### Senior Scientific Software Engineer, [MetOffice](https://www.metoffice.gov.uk/) (Dec. 2024 – Jul. 2025)
+### [MetOffice](https://www.metoffice.gov.uk/), Senior Scientific Software Engineer (Dec. 2024 – Jul. 2025)
 - Designed and implemented automated workflows using Cylc to replace legacy data feeds, streamlining the extraction and 
 - processing of meteorological data from MOGREPS-UK, UKV, and Global weather models.
 - Developed data pipelines in Microsoft Azure, leveraging cloud resources for rapid prototyping and scalability, 
 - before deploying the final production workflows to the MetOffice supercomputer environment for operational use.
 - Worked extensively with NetCDF formats and used Python libraries like xarray, numpy, pandas and scipy for efficient 
 - handling and analysis of high-resolution, multidimensional datasets.
-- Utilised Dask to parallelise and optimise performance for large-scale data processing tasks.
+- Utilised Dask to parallelize and optimize performance for large-scale data processing tasks.
 - Managed environments with Conda/Mamba and integrated JFrog Artifactory for secure, versioned package management; and 
 - implemented CI/CD pipelines using GitHub Actions.
 - Followed Python best practices, including modular architecture, unit testing, version control (Git), documentation, 
@@ -98,12 +97,12 @@ performance and reliability.
 
 
 
-### Python Developer, [Freelance]() (Sep. 2023 – Nov. 2024)
+### [Freelance](), Python Developer (Sep. 2023 – Nov. 2024)
 - Provided direct independent software development services to several clients, with recent focus on start-up IoT 
 projects, medical diagnostic devices and robotic SDK.
 
 
-### Senior Python Developer, [AMD](https://www.xilinx.com/products/silicon-devices/fpga.html) (Jan. 2020 – Jul. 2023)
+### [AMD](https://www.xilinx.com/products/silicon-devices/fpga.html), Senior Python Developer (Jan. 2020 – Jul. 2023)
 - Led a team of developers to design and implement a fully automated Continuous Integration testing and development framework by leveraging FastAPI on AWS EC2, S3, SQS, SNS, and DynamoDB utilizing Python Lambda functions and Boto3 scripts. Managed Source code on GitHub with linting and unit tests being performed by workflows and Actions.
 - Streamlined the legacy performance test system, seamlessly integrating it into the new environment for enhanced efficiency.
 - Automated the laboratory network infrastructure operations by utilizing Python libraries like nornir, netmiko, napalm, and fabric and employed Ansible YAML playbooks and Pulumi Python scripts as robust Infrastructure as Code (IaC) tools.
@@ -115,7 +114,7 @@ projects, medical diagnostic devices and robotic SDK.
 ### Career Break (Jan. 2019 – Nov. 2019)
 This period was taken to renovate the house and relocate.
 
-### Automation Engineer, [Qualcomm](https://www.qualcomm.com/) (Aug. 2016 – Dec. 2018)
+### [Qualcomm](https://www.qualcomm.com/), Automation Engineer (Aug. 2016 – Dec. 2018)
 - Resolved issues within the Python framework and test code; identified and remedied bugs discovered. Engineered infrastructure automation software following CI/CD principles.
 - Innovated and crafted new features for the automation framework.
 - Ensured Python environments remained current and aligned with the latest language advancements and interfaced seamlessly with other company environments.
@@ -127,7 +126,7 @@ This period was taken to renovate the house and relocate.
 - Managed source code within a distributed Git/Gerrit infrastructure.
 - Orchestrated the integration of diverse tools in the toolchain, elevating team velocity while upholding top-notch quality and consistency.
 
-### SDET (DevOps), [Cisco](https://www.cisco.com/site/uk/en/index.html) (Jul. 2011 – Aug. 2016)
+### [Cisco](https://www.cisco.com/site/uk/en/index.html), SDET (DevOps) (Jul. 2011 – Aug. 2016)
 - Designed, developed and maintained robust automated test suites using Python scripts, Selenium (Python bindings), and other relevant tools to validate software functionality across various platforms and environments.  Created and maintained the test infrastructure, frameworks, and tools required for automated testing. This involved writing code to automate tests, ensuring they are scalable, maintainable, and integrated into the development process.
 - Designed, coded, and executed automated tests to validate software functionality, performance, and security
 - Worked closely with developers to understand the software architecture, design, and implementation. Participated in code reviews, offered insights into testability concerns, and advocated for best practices in testing.
@@ -142,7 +141,7 @@ This period was taken to renovate the house and relocate.
 - Actively contributed to the identification and implementation of best practices for software testing and quality assurance. Project management and bug tracking was accomplished with the aid of Jira.
 
 
-### SDET, [Solarflare Communications](https://en.wikipedia.org/w/index.php?title=Solarflare&redirect=no) (Mar. 2010 – Jun. 2011)
+### [Solarflare Communications](https://en.wikipedia.org/w/index.php?title=Solarflare&redirect=no), SDET (Mar. 2010 – Jun. 2011)
 - Engineered and implemented an automated test framework in Python, integrating open source and commercial tools to validate the performance and protocol functionality of 10Gb network devices.
 - Conducted meticulous comparative performance tests against competitors' products, leveraging Matplotlib to visualize and interpret the results graphically.
 - Crafted test specifications based on IETF RFC and IEEE standards, facilitating protocol verification by automating processes with Ixia packet generators.
@@ -152,35 +151,34 @@ This period was taken to renovate the house and relocate.
 - Designed and developed web scraping scripts to extract pertinent competitor product data.
 
 
-### QA Automation Engineer, [3Com](https://en.wikipedia.org/wiki/3Com) (Feb. 2009 – Jan. 2010)
+### [3Com](https://en.wikipedia.org/wiki/3Com), QA Automation Engineer (Feb. 2009 – Jan. 2010)
 - Tested all functional and non-functional aspects of C++ embedded software on a unified security platform, encompassing firewall, Router, web filtering, spam filtering and anti-Virus functionality.
 - Utilised Spirent Smartbits packet generators, Avalanche traffic generators and automated tests with Python, Perl and Tcl.
 
 
-### QA Team Leader, [Citrix](https://www.citrix.com/) (Dec. 2005 – Dec. 2008)
+### [Citrix](https://www.citrix.com/), QA Team Leader (Dec. 2005 – Dec. 2008)
 - Completed many diverse full life cycle testing projects including release 4.5 of Presentation Server, XenApp, XenDesktop, XenServer and Edgesight products.
 - Complex server farm environments were generated using VMware with automation scripts.
 - Collaborated with product teams to implement and deploy test strategies, test plans, and test processes.
 
 
-### Network Support Analyst, BT
+### BT, Network Support Analyst
 - Responsible for 3rd line support of the ISP Network infrastructure components. 
 - Diverse equipment base supported including Cabletron 8000 routers, Cisco Catalyst 5000/5500 Cisco 7500’s, F5 BigIP, Nokia ip650 and checkpoint-1.
 - Implemented an “Acceptance into Service” procedure for newly installed networks: A comprehensive set of tests to confirm supportability.
 
 
-### Protocol Verification Engineer, 3Com
+### 3Com, Protocol Verification Engineer
 - Created test specifications utilising 3Com design documentation and specifications from the following standards bodies: IANA, IETF and IEEE. 
 - Designed test specifications for agent features and packet level protocol functionality for the following: VLAN tagging (802.1q), GMRP (802.1P), Spanning Tree (802.1d), Aggregated links (802.3ad), QoS, IGMP, SNMPv2c & v3, IGMPv3, Syslog, QoS, SNTP and 802.1x
 - Identified areas for test automation.  Maintained and updated existing test automation systems utilizing JavaScript.
 - Participated in high level test planning and forecasting activities.  Generated clear concise written reports of testing activities, progress of assigned areas of responsibility and product defects.  
 
-
 ---
 
 Full Career history available upon request
 
-v0.1.21
+
 
 
 
