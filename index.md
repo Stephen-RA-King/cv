@@ -78,6 +78,14 @@ reliability.
 
 ## 👨‍💻 Employment History
 
+### [ToFollow](), Senior Scientific Software Engineer (Oct. 2025 – )
+
+- Developed end-to-end Retrieval-Augmented Generation (RAG) and retrieval pipelines using LangChain and LlamaIndex, spanning multi-format document ingestion and normalisation via Pandoc, adaptive chunking strategies, embedding generation, vector indexing, and retrieval orchestration with LLM response synthesis.
+- Assisted in engineering vector database solutions and semantic search systems using Qdrant and Pinecone, implementing hybrid retrieval combining dense vector similarity with sparse keyword search to improve retrieval precision across large-scale document corpora.
+- Designed and deployed scalable, asynchronous REST APIs using FastAPI to expose RAG and LLM capabilities, supporting streaming responses, concurrent multi-user workloads, and clean separation between retrieval and generation layers.
+- Applied Hugging Face Transformers and sentence-transformers to evaluate and deploy domain-appropriate embedding models and cross-encoder rerankers, improving contextual relevance and retrieval quality across heterogeneous data sources.
+- Delivered cloud-native AI infrastructure on AWS using the AWS CDK, provisioning containerised services (ECS/Fargate), serverless compute (Lambda), and scalable storage (S3) to support production RAG deployments with reliable, cost-efficient scaling.
+
 ### [MetOffice](https://www.metoffice.gov.uk/), Senior Scientific Software Engineer (Dec. 2024 – Jul. 2025)
 - Designed and implemented automated workflows using Cylc to replace legacy data feeds, streamlining the extraction and 
 - processing of meteorological data from MOGREPS-UK, UKV, and Global weather models.
